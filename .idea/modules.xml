@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/expenses-lis-react.iml" filepath="$PROJECT_DIR$/.idea/expenses-lis-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/expenses-list-react.iml" filepath="$PROJECT_DIR$/.idea/expenses-list-react.iml" />
     </modules>
   </component>
 </project>
